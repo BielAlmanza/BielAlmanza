@@ -2,7 +2,7 @@ Hi,
 
 I am Biel Almanza, as a Backend Engineer – Focused on Scalable, Ultra High-Performance Systems:
 
-As a backend specialist aiming to deliver high-value and long-term impact, I focus on designing and building reliable, scalable, and efficient systems for enterprise-level applications.
+Backend specialist aiming to deliver high-value and long-term impact, I focus on designing and building reliable, scalable, and efficient systems for enterprise-level applications.
 
 Core Areas of Expertise:
 	•	System Architecture:
