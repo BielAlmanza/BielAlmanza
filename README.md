@@ -19,5 +19,3 @@ CI/CD pipelines (GitHub Actions, GitLab CI), containerization with Docker, orche
 System design with product scalability in mind, performance metrics awareness, and decision-making based on business goals and technical sustainability.
 	•	Team & Communication:
 Technical documentation, code review with architecture in mind, proactive tech debt management, and clear communication with both developers and stakeholders.
-
-*If u are recruiter, I'm exclusively open to remote positions with a minimum gross salary of $180,000 per year + variable bonusses (only for God-tier projects)
